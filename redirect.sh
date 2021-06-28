@@ -1,0 +1,1 @@
+echo This is goig to be redirected to file.txt > file.txt
